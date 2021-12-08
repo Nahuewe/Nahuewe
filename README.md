@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Nahue </h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [nuevoProyecto](nahuewe.github.io/nuevoproyecto/)
+- 🔭 I’m currently working on [nuevoProyecto](https://github.com/Nahuewe/nuevoProyecto)
 
 - 🌱 I’m currently learning **HTML, CSS (coming soon) JavaScript**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nahuel soria parodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahuel soria parodi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nahuelsoriaparodi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahuel soria parodi" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/nahueh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nahueh/" height="30" width="40" /></a>
 </p>
 
