@@ -1,5 +1,5 @@
 <h1 align="center"> Hola 👋, soy Nahuel Soria Parodi </h1>
-<h3 align="center"> A passionate Full Stack Developer from 🇦🇷 </h3>
+<h3 align="center"> A passionate Full Stack Developer from 👾 </h3>
 <h4 align="left"> I really want to learn about backend development 🧠 </h4>
 
 - 🔭 I’m currently working on [nuevoProyecto.](https://github.com/Nahuewe/nuevoProyecto)
@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **HTML, CSS, (coming soon) JavaScript.**
 
 - 📫 How to reach me **nahuelsoriap@gmail.com**
+
+- I'm from 🇦🇷
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
