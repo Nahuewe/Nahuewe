@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [nuevoProyecto](https://github.com/Nahuewe/nuevoProyecto)
 
-- 🌱 I’m currently learning **HTML, CSS (coming soon) JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, (coming soon) JavaScript**
 
 - 📫 How to reach me **nahuelsoriap@gmail.com**
 
