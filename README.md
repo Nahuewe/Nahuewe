@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **nahuelsoriap@gmail.com**
 
-- I'm from Argentina 🇦🇷
+- 🏠 I'm from Argentina 🇦🇷
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
