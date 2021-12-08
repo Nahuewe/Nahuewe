@@ -1,6 +1,6 @@
 <h1 align="center"> 🌸 Hola 👋, soy Nahuel Soria Parodi 🌸 </h1>
-<h3 align="center"> A passionate Full Stack Developer 👾 </h3>
-<h4 align="left"> • I really want to learn about backend development 🧠 </h4>
+<h2 align="center"> A passionate Full Stack Developer 👾 </h2>
+<h3 align="left"> - I really want to learn about backend development 🧠 </h3>
 
 - 🔭 I’m currently working on [nuevoProyecto.](https://github.com/Nahuewe/nuevoProyecto)
 
@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://instagram.com/nahueh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nahueh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nahuelsoriaparodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahuelsoriaparodi" height="30" width="40" /></a>
-<a href="https://codepen.io/https://codepen.io/nahuewe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nahuewe" height="30" width="40" /></a>
+<a href="https://codepen.io/nahuewe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nahuewe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuewe&show_icons=true&locale=en&layout=compact" alt="nahuewe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahuewe&show_icons=true&locale=en" alt="nahuewe" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahuewe&show_icons=true&locale=en" alt="nahuewe" /></p>
