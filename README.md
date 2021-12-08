@@ -1,16 +1,16 @@
 <h1 align="center"> 🌸 Hola, soy Nahuel Soria Parodi 🌸 </h1>
-<h3 align="center"> A passionate Full Stack Developer 👾 </h3>
+<h3 align="center"> 👾 A passionate Full Stack Developer student 👾 </h3>
 <h4 align="left"> - I really want to learn about backend development 🧠 </h4>
 
 - 🔭 I’m currently working on [Manga Store.](https://github.com/Nahuewe/nuevoProyecto)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript (coming soon).**
+- 🌱 I’m currently learning **Full Stack developer** at [CoderHouse](https://plataforma.coderhouse.com/perfil/60fb3e89101cd80011db0e59)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nahuewe](https://github.com/Nahuewe?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Nahuewe?tab=repositories)
 
-- 📫 How to reach me **nahuelsoriap@gmail.com**
+- 📫 How to contact me **nahuelsoriap@gmail.com**
 
-- 🏠 I'm from Catamarca, Argentina
+- 🏠 I'm from [Catamarca, Argentina](https://goo.gl/maps/jS5AUAgVsJ9wviSa6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
