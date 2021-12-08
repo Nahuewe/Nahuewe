@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Nahue</h1>
+h1>Hi 👋, I'm Nahue</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - 🔭 I’m currently working on [nuevoProyecto](nahuewe.github.io/nuevoproyecto/)
