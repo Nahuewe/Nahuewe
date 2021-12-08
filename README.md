@@ -1,9 +1,9 @@
 <h1 align="center"> Hi 👋, I'm Nahue </h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [nuevoProyecto](https://github.com/Nahuewe/nuevoProyecto)
+- 🔭 I’m currently working on [nuevoProyecto.](https://github.com/Nahuewe/nuevoProyecto)
 
-- 🌱 I’m currently learning **HTML, CSS, (coming soon) JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, (coming soon) JavaScript.**
 
 - 📫 How to reach me **nahuelsoriap@gmail.com**
 
