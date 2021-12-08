@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript (coming soon).**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nahuewe](https://github.com/Nahuewe)
+- 👨‍💻 All of my projects are available at [https://github.com/Nahuewe](https://github.com/Nahuewe?tab=repositories)
 
 - 📫 How to reach me **nahuelsoriap@gmail.com**
 
-- 🏠 I'm from Argentina
+- 🏠 I'm from Catamarca, Argentina
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
