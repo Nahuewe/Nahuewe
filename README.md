@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuewe&show_icons=true&theme=onedark&title_color=ff00ff&text_color=bdbdbd&locale=es&layout=compact" alt="nahuewe" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nahuewe&show_icons=true&theme=dracula&title_color=e100ff&text_color=bdbdbd&locale=es" alt="nahuewe" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nahuewe&show_icons=true&theme=dracula&title_color=e100ff&text_color=bdbdbd&locale=es" alt="nahuewe" /></p>
