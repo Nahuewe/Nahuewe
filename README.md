@@ -7,6 +7,8 @@
 
 - 📕 I’m currently working on [Manga Store.](https://github.com/Nahuewe/nuevoProyecto) (Or trying at least...)
 
+![Hornet](https://user-images.githubusercontent.com/93626668/145552553-08c93167-1d5b-46ab-a404-7ff5bcba1a1a.gif)
+
 - 🧠 I’m currently learning **<kbd>Full Stack Developer</kbd>** at [CoderHouse.](https://plataforma.coderhouse.com/perfil/60fb3e89101cd80011db0e59)
 
 - 👨‍💻 All of my projects are available at [Repositories.](https://github.com/Nahuewe?tab=repositories)
@@ -27,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuewe&show_icons=true&theme=onedark&title_color=ff00ff&text_color=bdbdbd&locale=es&layout=compact" alt="nahuewe" "/></p> 
   
-![Hornet](https://user-images.githubusercontent.com/93626668/145552553-08c93167-1d5b-46ab-a404-7ff5bcba1a1a.gif)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahuewe&show_icons=true&theme=dracula&title_color=e100ff&text_color=bdbdbd&locale=es" alt="nahuewe" /></p>
 
