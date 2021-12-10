@@ -9,7 +9,7 @@
 
 ![Hornet](https://user-images.githubusercontent.com/93626668/145552553-08c93167-1d5b-46ab-a404-7ff5bcba1a1a.gif)
 
-- 🧠 I’m currently learning **<kbd>Full Stack Developer</kbd>** at [CoderHouse.](https://plataforma.coderhouse.com/perfil/60fb3e89101cd80011db0e59)
+- 🧠 I’m currently learning **<kbd>Web Developer</kbd>** at [CoderHouse.](https://plataforma.coderhouse.com/perfil/60fb3e89101cd80011db0e59)
 
 - 👨‍💻 All of my projects are available at [Repositories.](https://github.com/Nahuewe?tab=repositories)
 
