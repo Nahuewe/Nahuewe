@@ -1,13 +1,13 @@
 <h1 align="center"> 🌸 Hola, soy Nahuel Soria Parodi 🌸 </h1>
 <h3 align="center"> 👾 A passionate Full Stack Developer student 👾 </h3>
 
-- 🌐 Advanced English (B2 - C1) and native spanish.
+- 🌐 Advanced English <kbd>(B2 - C1)</kbd> and native spanish.
 
 - 📝 I really want to learn about backend development.
 
 - 📕 I’m currently working on [Manga Store.](https://github.com/Nahuewe/nuevoProyecto)
 
-- 🧠 I’m currently learning **Full Stack developer** at [CoderHouse.](https://plataforma.coderhouse.com/perfil/60fb3e89101cd80011db0e59)
+- 🧠 I’m currently learning **<kbd>Full Stack developer</kbd>** at [CoderHouse.](https://plataforma.coderhouse.com/perfil/60fb3e89101cd80011db0e59)
 
 - 👨‍💻 All of my projects are available at [Repositories.](https://github.com/Nahuewe?tab=repositories)
 
