@@ -1,6 +1,8 @@
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuewe&show_icons=true&theme=onedark&title_color=ff00ff&text_color=bdbdbd&locale=es&layout=compact" alt="nahuewe" "/></p>
-<h1 align="left"> 🌸 Hola, soy Nahuel Soria Parodi 🌸 </h1> 
-<h3 align="left"> 👾 A passionate Full Stack Developer student 👾 </h3>
+<h1 align="center"> 🌸 Hola, soy Nahuel Soria Parodi 🌸 </h1>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuewe&show_icons=true&theme=onedark&title_color=ff00ff&text_color=bdbdbd&locale=es&layout=compact" alt="nahuewe" "/></p>
+
+<h3 align="center"> 👾 A passionate Full Stack Developer student 👾 </h3>
 
 - 🌐 Advanced english <kbd>(B2 - C1)</kbd> and native spanish.
 
