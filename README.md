@@ -28,3 +28,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuewe&show_icons=true&theme=onedark&title_color=ff00ff&text_color=bdbdbd&locale=es&layout=compact" alt="nahuewe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahuewe&show_icons=true&theme=dracula&title_color=e100ff&text_color=bdbdbd&locale=es" alt="nahuewe" /></p>
+
+![dcxq1zl-2909ac2f-c8c4-4d8f-b4c7-16586ca644db](https://user-images.githubusercontent.com/93626668/145549411-29c6d193-c83f-495d-9fbf-70bf4ae91405.gif)
