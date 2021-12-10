@@ -5,7 +5,7 @@
 
 - 📝 I really want to learn about backend development.
 
-- 📕 I’m currently working on [Manga Store.](https://github.com/Nahuewe/nuevoProyecto)
+- 📕 I’m currently working on [Manga Store.](https://github.com/Nahuewe/nuevoProyecto) (Or trying at least...)
 
 - 🧠 I’m currently learning **<kbd>Full Stack developer</kbd>** at [CoderHouse.](https://plataforma.coderhouse.com/perfil/60fb3e89101cd80011db0e59)
 
