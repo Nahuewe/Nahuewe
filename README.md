@@ -17,11 +17,11 @@
 
 <h3 align="center"> 🎮 My Hobbies 🎮 </h3>
 
-- 📼 Playing Videogames (my favorite videogame is Hollow Knight.)
+- 📼 Playing videogames (my favorite videogame is Hollow Knight.)
 
-- 🍿 watch movies and series (mostly about anime.)
+- 🍿 Watch movies and series (mostly about anime.)
 
-- 💻 And study about little things that passionate me.
+- 💻 Study about little things that passionate me.
 
 ![Hornet](https://user-images.githubusercontent.com/93626668/145552553-08c93167-1d5b-46ab-a404-7ff5bcba1a1a.gif)
 
