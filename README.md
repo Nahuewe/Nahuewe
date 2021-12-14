@@ -1,5 +1,5 @@
 <h1 align="center"> 🌸 Hola, soy Nahuel Soria Parodi 🌸 </h1>
-<h3 align="center"> 👾 A passionate Full Stack Developer student 👾 </h3>
+<h3 align="center"> 👾 A passionate Full Stack Web Developer student 👾 </h3>
 
 - 🌐 Advanced english <kbd>(B2 - C1)</kbd> and native spanish.
 
@@ -16,6 +16,14 @@
 - 📧 How to contact me **nahuelsoriap@gmail.com**
 
 - 🏡 I'm from [Catamarca, Argentina.](https://goo.gl/maps/jS5AUAgVsJ9wviSa6)
+
+<h3 align="center"> 🎮 My Hobbies 🎮 </h3>
+
+- 📼 Playing Videogames (my favorite videogame is Hollow Knight.)
+
+- 🍿 watch movies and series (mostly about anime.)
+
+- 💻 And study about little things that passionate me.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
