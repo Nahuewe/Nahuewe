@@ -7,8 +7,6 @@
 
 - 📕 I’m currently working on [Manga Store.](https://github.com/Nahuewe/nuevoProyecto) (Or trying at least...)
 
-![Hornet](https://user-images.githubusercontent.com/93626668/145552553-08c93167-1d5b-46ab-a404-7ff5bcba1a1a.gif)
-
 - 🧠 I’m currently learning **<kbd>Web Development</kbd>** at [CoderHouse.](https://www.coderhouse.com/?utm_term=%2Bcoder%20%2Bhouse&utm_campaign=12058006243&utm_source=google_search_brand&utm_medium=cpc&gclid=CjwKCAiAksyNBhAPEiwAlDBeLAQf2n3EFHxyZVPwHamXP8UhAEFKj9VANWU8NP2IR7mM9tJJshI4MxoCzEkQAvD_BwE)
 
 - 👨‍💻 All of my projects are available at [Repositories.](https://github.com/Nahuewe?tab=repositories)
@@ -24,6 +22,8 @@
 - 🍿 watch movies and series (mostly about anime.)
 
 - 💻 And study about little things that passionate me.
+
+![Hornet](https://user-images.githubusercontent.com/93626668/145552553-08c93167-1d5b-46ab-a404-7ff5bcba1a1a.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
