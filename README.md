@@ -1,5 +1,5 @@
 <h1 align="center"> 🌸 Hola, soy Nahuel Soria Parodi 🌸 </h1>
-<h3 align="center"> 👾 A passionate Full Stack Web Developer student 👾 </h3>
+<h2 align="center"> 👾 A passionate Full Stack Web Developer student 👾 </h2>
 
 - 🌐 Advanced english <kbd>(B2 - C1)</kbd> and native spanish.
 
