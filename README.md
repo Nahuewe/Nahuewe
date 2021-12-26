@@ -15,7 +15,7 @@
 
 - 🏡 I'm from [Catamarca, Argentina.](https://goo.gl/maps/jS5AUAgVsJ9wviSa6)
 
-- 🧻 My CV: [Nahuel Soria Parodi](https://github.com/Nahuewe/Nahuewe/files/7777711/CV.Nahuel.Soria.Parodi.pdf)
+- 🧻 My CV: [Nahuel Soria Parodi.](https://github.com/Nahuewe/Nahuewe/files/7777711/CV.Nahuel.Soria.Parodi.pdf)
 
 ![viborita](https://github.com/Nahuewe/Viborita/blob/main/viborita.svg)
 
