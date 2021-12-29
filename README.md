@@ -13,7 +13,7 @@
 
 - 📧 How to contact me **nahuelsoriap@gmail.com**
 
-- 🧻 My CV [Nahuel Soria Parodi.](https://github.com/Nahuewe/Nahuewe/files/7787169/CV.Nahuel.Soria.Parodi.pdf)
+- 🧻 My CV [Nahuel Soria Parodi.](https://github.com/Nahuewe/Nahuewe/files/7787739/CV.Nahuel.Soria.Parodi.pdf)
 
 - 🏡 I'm from [Catamarca, Argentina.](https://goo.gl/maps/jS5AUAgVsJ9wviSa6)
 
