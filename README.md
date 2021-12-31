@@ -1,9 +1,10 @@
 <h1 align="center"> 🌸 Hola, soy Nahuel Soria Parodi 🌸 </h1>
+
 <h2 align="center"> 👾 A passionate Full Stack Web Developer student 👾 </h2>
 
 - 🌐 Advanced english <kbd>(B2 - C1)</kbd> and native spanish.
 
-- 📝 I really want to learn about backend development.
+- 📝 I really want to learn about back-end development.
 
 - 📕 I’m currently working on [Manga Store.](https://github.com/Nahuewe/nuevoProyecto)
 
@@ -17,6 +18,8 @@
 
 - 🏡 I'm from [Catamarca, Argentina.](https://goo.gl/maps/jS5AUAgVsJ9wviSa6)
 
+---
+
 ![viborita](https://github.com/Nahuewe/Viborita/blob/main/viborita.svg)
 
 <h3 align="center"> 🎮 My Hobbies 🎮 </h3>
@@ -28,6 +31,8 @@
 - 💻 Study about little things that passionate me.
 
 ![Hornet](https://user-images.githubusercontent.com/93626668/145552553-08c93167-1d5b-46ab-a404-7ff5bcba1a1a.gif)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
