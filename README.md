@@ -30,7 +30,7 @@
 
 - 💻 Study about little things that passionate me.
 
-![Hornet](https://user-images.githubusercontent.com/93626668/145552553-08c93167-1d5b-46ab-a404-7ff5bcba1a1a.gif)
+<p align="center"><img src="https://c.tenor.com/Z930G5XKcy0AAAAi/hollow-knight-hornet.gif" alt="Hornet Gif" width="200"></p>
 
 ---
 
