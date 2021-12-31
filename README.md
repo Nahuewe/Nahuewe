@@ -24,9 +24,9 @@
 
 <h3 align="center"> 🎮 My Hobbies 🎮 </h3>
 
-- 📼 Playing videogames (my favorite videogame is Hollow Knight.)
+- 📼 Playing videogames (my favorite videogame is Hollow Knight).
 
-- 🍿 Watch movies and series (mostly about anime.)
+- 🍿 Watch movies and series (mostly about anime).
 
 - 💻 Study about little things that passionate me.
 
