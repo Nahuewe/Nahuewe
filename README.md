@@ -49,4 +49,4 @@
 <br />
 <br />
 
-<p><img src="https://media.discordapp.net/attachments/651263679312166912/927017478725464084/271122167_1592784441064572_5729657503177213002_n_1.gif" alt="Hollow Knight"></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/651263679312166912/927017478725464084/271122167_1592784441064572_5729657503177213002_n_1.gif" alt="Hollow Knight" width="100%"></p>
