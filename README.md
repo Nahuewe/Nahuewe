@@ -4,7 +4,7 @@
 
 - 🌐 Advanced english <kbd>(B2 - C1)</kbd> and native spanish.
 
-- 📝 I really want to learn about back-end development.
+- 📝 I really want to learn about back-end Development and Video Games Development.
 
 - 📕 I’m currently working on [Manga Store.](https://github.com/Nahuewe/nuevoProyecto)
 
