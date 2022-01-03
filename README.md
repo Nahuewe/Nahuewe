@@ -18,9 +18,9 @@
 
 - 🏡 I'm from [Catamarca, Argentina.](https://goo.gl/maps/jS5AUAgVsJ9wviSa6)
 
----
-
 ![viborita](https://github.com/Nahuewe/Viborita/blob/main/viborita.svg)
+
+---
 
 <h3 align="center"> 🎮 My Hobbies 🎮 </h3>
 
