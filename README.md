@@ -30,7 +30,7 @@
 
 - 💻 Study about little things that passionate me.
 
-<p align="center"><img src="https://c.tenor.com/Z930G5XKcy0AAAAi/hollow-knight-hornet.gif" alt="Hornet Gif" width="200"></p>
+<p align="center"><img src="https://c.tenor.com/Z930G5XKcy0AAAAi/hollow-knight-hornet.gif" alt="Hornet Gif" width="150"></p>
 
 ---
 
@@ -46,4 +46,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nahuewe&show_icons=true&theme=dracula&title_color=e100ff&text_color=bdbdbd&locale=es" alt="nahuewe" /></p>
 
-![dcxq1zl-2909ac2f-c8c4-4d8f-b4c7-16586ca644db](https://user-images.githubusercontent.com/93626668/145549411-29c6d193-c83f-495d-9fbf-70bf4ae91405.gif)
+<br />
+<br />
+
+<p><img src="https://media.discordapp.net/attachments/651263679312166912/927017478725464084/271122167_1592784441064572_5729657503177213002_n_1.gif" alt="Hollow Knight"></p>
