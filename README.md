@@ -2,9 +2,7 @@
 
 <h2 align="center"> 👾 A passionate FullStack Web Developer student 👾 </h2>
 
-- 🌐 Advanced english <kbd>(B2 - C1)</kbd> and native spanish.
-
-- 📝 I really want to learn about Back-end Development and Video Games Development.
+- 📝 I really want to learn about <kbd>Back-end Development</kbd> and <kbd>Video Games Development</kbd>.
 
 - 📕 I’m currently working on [Manga Store.](https://github.com/Nahuewe/nuevoProyecto)
 
