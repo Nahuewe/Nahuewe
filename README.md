@@ -61,4 +61,4 @@
 
 <br>
 
-<p align="center"><img src="https://64.media.tumblr.com/dbf5c3ff890462eeb4c188f288c81e27/tumblr_pbkbliZQZs1tah9pwo1_1280.gif" alt="Hollow Knight" width="100%"></p>
+<p align="center"><img src="https://c.tenor.com/VxR39qrgKakAAAAd/spinning-hollow-knight.gif" alt="Hollow Knight" width="100%"></p>
