@@ -4,7 +4,7 @@
 
 - 📝 I really want to learn about <kbd>Back-end Development</kbd> and <kbd>Video Games Development</kbd>.
 
-- 📕 I’m currently working on [Game Store.](https://github.com/Nahuewe/tiendaDeJueguitos)
+- 📕 I’m currently working on [Game Store.](https://github.com/Nahuewe/Game-Store)
 
 - 🧠 I’m currently learning **<kbd>FullStack Web Development</kbd>** at [CoderHouse.](https://www.coderhouse.com/?utm_term=%2Bcoder%20%2Bhouse&utm_campaign=12058006243&utm_source=google_search_brand&utm_medium=cpc&gclid=CjwKCAiAksyNBhAPEiwAlDBeLAQf2n3EFHxyZVPwHamXP8UhAEFKj9VANWU8NP2IR7mM9tJJshI4MxoCzEkQAvD_BwE)
 
