@@ -2,7 +2,7 @@
 
 <h2 align="center"> 👾 A passionate FullStack Web Developer student 👾 </h2>
 
-- 📝 I really want to learn about <kbd>Back-end Development</kbd> and <kbd>Video Games Development</kbd>.
+- 📝 I really want to learn about <kbd>Back-end Development</kbd>.
 
 - 📕 I’m currently working on [Game Store.](https://github.com/Nahuewe/Game-Store)
 
@@ -12,7 +12,7 @@
 
 - 📧 How to contact me **nahuelsoriap@gmail.com** / [Instagram](https://instagram.com/nahueh) / [LinkedIn](https://linkedin.com/in/nahuelsoriaparodi)
 
-- 🧻 My CV [Spanish](https://github.com/Nahuewe/Nahuewe/files/7787790/CV.Nahuel.Soria.Parodi.Espanol.pdf) / [English](https://github.com/Nahuewe/Nahuewe/files/7787793/CV.Nahuel.Soria.Parodi.English.pdf)
+- 🧻 My CV [Spanish](https://github.com/Nahuewe/Nahuewe/files/7787790/CV.Nahuel.Soria.Parodi.Espanol.pdf) / [English](https://github.com/Nahuewe/Nahuewe/files/7787793/CV.Nahuel.Soria.Parodi.English.pdf)  (Desactualizados)
 
 - 🏡 I'm from [Catamarca, Argentina.](https://goo.gl/maps/jS5AUAgVsJ9wviSa6)
 
