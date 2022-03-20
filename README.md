@@ -6,7 +6,7 @@
 
 - 📕 I’m currently working on [Game Store.](https://github.com/Nahuewe/Game-Store)
 
-- 🧠 I’m currently learning **<kbd>Front-End Development</kbd>** at [CoderHouse.](https://www.coderhouse.com/?utm_term=%2Bcoder%20%2Bhouse&utm_campaign=12058006243&utm_source=google_search_brand&utm_medium=cpc&gclid=CjwKCAiAksyNBhAPEiwAlDBeLAQf2n3EFHxyZVPwHamXP8UhAEFKj9VANWU8NP2IR7mM9tJJshI4MxoCzEkQAvD_BwE) and **<kbd>FullStack Web Development</kbd>** [UTN.](https://sceu.frba.utn.edu.ar/cursopresencial/diplomatura-en-programacion-web-full-stack/)
+- 🧠 I’m currently learning **<kbd>Front-End Development</kbd>** at [CoderHouse](https://www.coderhouse.com/?utm_term=%2Bcoder%20%2Bhouse&utm_campaign=12058006243&utm_source=google_search_brand&utm_medium=cpc&gclid=CjwKCAiAksyNBhAPEiwAlDBeLAQf2n3EFHxyZVPwHamXP8UhAEFKj9VANWU8NP2IR7mM9tJJshI4MxoCzEkQAvD_BwE) and **<kbd>Diplomatura en Programación Web Full Stack</kbd>** at [UTN.](https://sceu.frba.utn.edu.ar/cursopresencial/diplomatura-en-programacion-web-full-stack/)
 
 - 👨‍💻 All of my projects are available at [Repositories.](https://github.com/Nahuewe?tab=repositories)
 
