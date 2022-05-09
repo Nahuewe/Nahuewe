@@ -4,15 +4,15 @@
 
 - 📝 I really want to learn about <kbd>Back-end Development</kbd>.
 
-- 📕 I’m currently working on [Game Store.](https://github.com/Nahuewe/Game-Store)
+- 📕 I’m currently working on <kbd>(W.I.P)</kbd>
 
-- 🧠 I’m currently learning **<kbd>Front-End Development</kbd>** at [CoderHouse.](https://www.coderhouse.com/?utm_term=%2Bcoder%20%2Bhouse&utm_campaign=12058006243&utm_source=google_search_brand&utm_medium=cpc&gclid=CjwKCAiAksyNBhAPEiwAlDBeLAQf2n3EFHxyZVPwHamXP8UhAEFKj9VANWU8NP2IR7mM9tJJshI4MxoCzEkQAvD_BwE)
+- 🧠 I’m currently learning **<kbd>FullStack Web Development</kbd>** at [Universidad Tecnica Nacional.](https://sceu.frba.utn.edu.ar/e-learning/?gclid=CjwKCAjw9-KTBhBcEiwAr19ig29gHuP2aKW6m_nX7FiZo3mwcbBUsRsdRuGRfVvYdOEFnHCUsguipRoC8AQQAvD_BwE)
 
 - 👨‍💻 All of my projects are available at [Repositories.](https://github.com/Nahuewe?tab=repositories)
 
 - 📧 How to contact me **nahuelsoriap@gmail.com** / [Instagram](https://instagram.com/nahueh) / [LinkedIn](https://linkedin.com/in/nahuelsoriaparodi)
 
-- 🧻 My CV [Spanish](https://github.com/Nahuewe/Nahuewe/files/7787790/CV.Nahuel.Soria.Parodi.Espanol.pdf) / [English](https://github.com/Nahuewe/Nahuewe/files/7787793/CV.Nahuel.Soria.Parodi.English.pdf)  (Desactualizados)
+- 🧻 My CV <kbd>(W.I.P)</kbd>
 
 - 🏡 I'm from [Catamarca, Argentina.](https://goo.gl/maps/jS5AUAgVsJ9wviSa6)
 
