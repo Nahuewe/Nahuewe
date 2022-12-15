@@ -2,9 +2,7 @@
 
 <h2 align="center"> 👾 A passionate FullStack Web Developer student 👾 </h2>
 
-- 📝 I really want to learn about <kbd>Back-end Development</kbd>.
-
-- 📕 I’m currently working on <kbd>(W.I.P)</kbd>
+- 📕 I’m currently working on [Trabajo Final UTN.](https://github.com/Nahuewe/trabajoFinalUTN)
 
 - 🧠 I’m currently learning **<kbd>FullStack Web Development</kbd>** at [Universidad Tecnica Nacional.](https://sceu.frba.utn.edu.ar/e-learning/?gclid=CjwKCAjw9-KTBhBcEiwAr19ig29gHuP2aKW6m_nX7FiZo3mwcbBUsRsdRuGRfVvYdOEFnHCUsguipRoC8AQQAvD_BwE)
 
@@ -12,7 +10,7 @@
 
 - 📧 How to contact me **nahuelsoriap@gmail.com** / [Instagram](https://instagram.com/nahueh) / [LinkedIn](https://linkedin.com/in/nahuelsoriaparodi)
 
-- 🧻 My CV <kbd>(W.I.P)</kbd>
+- 🧻 My CV [Nahuel Soria Parodi](https://github.com/Nahuewe/Nahuewe/files/10239965/CV-Nahuel-Soria-Parodi.pdf)
 
 - 🏡 I'm from [Catamarca, Argentina.](https://goo.gl/maps/jS5AUAgVsJ9wviSa6)
 
@@ -44,6 +42,9 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -51,10 +52,7 @@
 
 <br>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
