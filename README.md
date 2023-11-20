@@ -1,36 +1,30 @@
 <h1 align="center"> 🌸 Hola, soy Nahuel Soria Parodi 🌸 </h1>
 
-<h2 align="center"> 👾 A passionate FullStack Web Developer student 👾 </h2>
+- 📕 Actualmente estoy trabajando para la [Municipalidad de Catamarca](https://www.catamarcaciudad.gob.ar) como desarrollador Front-end
 
-- 📕 I’m currently working on [Municipalidad de Catamarca](https://www.catamarcaciudad.gob.ar) at Software Developer
+- 🧠 Estoy aprendiendo **<kbd>Svelte & React</kbd>**
 
-- 🧠 I’m currently learning **<kbd>Svelte & Laravel</kbd>**
+- 👨‍💻 Todos mis proyectos estan disponibles en [Repositorios.](https://github.com/Nahuewe?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [Repositories.](https://github.com/Nahuewe?tab=repositories)
+- 📧 Enlaces para contactarme **nahuelsoriap@gmail.com** / [Instagram](https://instagram.com/nahueh) / [LinkedIn](https://linkedin.com/in/nahuelsoriaparodi)
 
-- 📧 How to contact me **nahuelsoriap@gmail.com** / [Instagram](https://instagram.com/nahueh) / [LinkedIn](https://linkedin.com/in/nahuelsoriaparodi)
+- 🏡 Vivo en [Catamarca, Argentina.](https://goo.gl/maps/jS5AUAgVsJ9wviSa6)
 
-- 🧻 My CV [Work in Progress](https://www.youtube.com/watch?v=wLkfz10Srxw)
+---
 
-- 🏡 I'm from [Catamarca, Argentina.](https://goo.gl/maps/jS5AUAgVsJ9wviSa6)
+<h3 align="center"> 🎮 Mis pasatiempos 🎮 </h3>
+
+- 📼 Jugar videojuegos (mi juego favorito es Hollow Knight).
+
+- 🍿 Ver series y películas (mayormente animadas).
+
+- 💻 Estudiar de manera autodidacta sobre temas que me resulten interesantes. O simplemente para adquirir un nuevo conocimiento.
 
 ![viborita](https://github.com/Nahuewe/Viborita/blob/main/viborita.svg)
 
 ---
 
-<h3 align="center"> 🎮 My Hobbies 🎮 </h3>
-
-- 📼 Playing videogames (my favorite videogame is Hollow Knight).
-
-- 🍿 Watch movies and series (mostly about anime).
-
-- 💻 Study about little things that passionate me.
-
-<p align="center"><img src="https://c.tenor.com/Z930G5XKcy0AAAAi/hollow-knight-hornet.gif" alt="Hornet Gif" width="180"></p>
-
----
-
-<h3 align="center"> 🛠 Languages and tools which i know 🛠 </h3>
+<h3 align="center"> 🛠 Mis conocimientos 🛠 </h3>
 
 <br>
 
@@ -44,17 +38,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<h3 align="center"> 💻 Lenguages and tools that i want to perfect💻 </h3>
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <br>
 
-<p align="center"><img src="https://c.tenor.com/VxR39qrgKakAAAAd/spinning-hollow-knight.gif" alt="Hollow Knight" width="100%"></p>
+<p align="center"><img src="https://c.tenor.com/Z930G5XKcy0AAAAi/hollow-knight-hornet.gif" alt="Hornet Gif" width="180"></p>
