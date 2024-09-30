@@ -2,25 +2,13 @@
 
 - 📕 Actualmente estoy trabajando para la [Municipalidad de Catamarca](https://www.catamarcaciudad.gob.ar) como desarrollador Front-end
 
-- 🧠 Estoy aprendiendo **<kbd>Svelte & React</kbd>**
+- 🧠 Estoy aprendiendo **<kbd>React & Laravel</kbd>**
 
 - 👨‍💻 Todos mis proyectos estan disponibles en [Repositorios.](https://github.com/Nahuewe?tab=repositories)
 
-- 📧 Enlaces para contactarme **nahuelsoriap@gmail.com** / [Instagram](https://instagram.com/nahueh) / [LinkedIn](https://linkedin.com/in/nahuelsoriaparodi)
+- 📧 Enlaces para contactarme **nahuelsoriap@gmail.com** / [Instagram](https://instagram.com/nahueh) / [LinkedIn](https://linkedin.com/in/nahuelsoriaparodi) / [WhatsApp](https://wa.me/+5493834523702)
 
 - 🏡 Vivo en [Catamarca, Argentina.](https://goo.gl/maps/jS5AUAgVsJ9wviSa6)
-
----
-
-<h3 align="center"> 🎮 Mis pasatiempos 🎮 </h3>
-
-- 📼 Jugar videojuegos (mi juego favorito es Hollow Knight).
-
-- 🍿 Ver series y películas (mayormente animadas).
-
-- 💻 Estudiar de manera autodidacta sobre temas que me resulten interesantes. O simplemente para adquirir un nuevo conocimiento.
-
-![viborita](https://github.com/Nahuewe/Viborita/blob/main/viborita.svg)
 
 ---
 
@@ -40,10 +28,30 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-00000F?style=for-the-badge&logo=laravel&logoColor=FF3E00)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
+<p align="center"><img src="https://c.tenor.com/Z930G5XKcy0AAAAi/hollow-knight-hornet.gif" alt="Hornet Gif" width="180"></p>
+
 <br>
 
-<p align="center"><img src="https://c.tenor.com/Z930G5XKcy0AAAAi/hollow-knight-hornet.gif" alt="Hornet Gif" width="180"></p>
+---
+
+<h3 align="center"> 🎮 Mis pasatiempos 🎮 </h3>
+
+- 📼 Jugar videojuegos (mi juego favorito es Hollow Knight).
+
+- 🍿 Ver series y películas (mayormente animadas).
+
+- 💻 Estudiar de manera autodidacta sobre temas que me resulten interesantes. O simplemente para adquirir un nuevo conocimiento.
+
+![viborita](https://github.com/Nahuewe/Viborita/blob/main/viborita.svg)
+
+<h3 align="center"> 📢 Estadisticas 📢 </h3>
+
+| ![](https://github-readme-stats.vercel.app/api?username=Nahuewe&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Nahuewe&theme=ayu-mirage&hide_border=false) |
+| --- | --- |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuewe&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+
