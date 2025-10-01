@@ -12,8 +12,8 @@
 - 📁 Explorá mis [repositorios](https://github.com/Nahuewe?tab=repositories) para conocer mis proyectos.
 - 📍 Vivo en [Catamarca, Argentina](https://goo.gl/maps/jS5AUAgVsJ9wviSa6).
 - 📄 Descargá mi CV:
-  - [CV Español 🇦🇷](https://github.com/user-attachments/files/17837446/Nahuel_Soria_Parodi_CV-2024.pdf)
-  - [CV Inglés 🌎](https://github.com/user-attachments/files/17837450/Nahuel_Soria_Parodi_CV-2024_EN.pdf)
+  - [CV Español 🇦🇷](https://github.com/user-attachments/files/22647855/Nahuel_Soria_Parodi_CV-2025-ES.pdf)
+  - [CV Inglés 🌎](https://github.com/user-attachments/files/22647850/Nahuel_Soria_Parodi_CV-2025-EN.pdf)
 
 ---
 
