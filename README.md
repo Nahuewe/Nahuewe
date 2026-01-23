@@ -21,8 +21,8 @@
 - 📊 Desarrollo dashboards, sistemas en tiempo real y herramientas internas de alto impacto.
 - 🌍 Abierto a oportunidades **remotas internacionales**.
 - 📄 Mi CV:
-  - [CV Español 🇦🇷](https://github.com/user-attachments/files/24795763/Nahuel_Soria_Parodi_CV-2026_ES.pdf)
-  - [CV Inglés 🌎](https://github.com/user-attachments/files/24795774/Nahuel_Soria_Parodi_CV-2026_EN.pdf)
+  - [CV Español 🇦🇷](https://github.com/user-attachments/files/24824289/Nahuel_Soria_Parodi_CV-2026_ES.pdf)
+  - [CV Inglés 🌎](https://github.com/user-attachments/files/24824280/Nahuel_Soria_Parodi_CV-2026_EN.pdf)
 
 ---
 
