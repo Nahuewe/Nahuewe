@@ -57,7 +57,7 @@ Full Stack Developer based in Catamarca, Argentina (UTC-3, overlaps well with US
 | **Manga collection** | Catalog with versioned uploads and automatic change history | React · TS · Supabase | [Demo](https://coleccionmangas.netlify.app/) · [Code](https://github.com/Nahuewe/mangas) |
 | **Bitácora** | Android app that reads Health Connect data and syncs to Supabase | Kotlin · Compose | [Code](https://github.com/Nahuewe/bitacora-salud) |
 | **Cruce de datos** | Compare two Excel/CSV files with fuzzy matching | JS | [Demo](https://crucedatos.netlify.app/) · [Code](https://github.com/Nahuewe/cruce-datos) |
-| **Lukies Cloth** | Product catalog with search, filters and WhatsApp contact | Astro · Tailwind | [Demo](https://lukiescloth.netlify.app/) · [Code](https://github.com/Nahuewe/lukiesCloth) |
+| **ABMates** | Product catalog with search, filters and WhatsApp contact | Astro · Tailwind | [Demo](https://abmates.netlify.app/) · [Code](https://github.com/Nahuewe/abmates) |
 | **Portfolio** | Bilingual portfolio with dark mode and case studies | Astro · Tailwind · TS | [Demo](https://portfolionahuelsoriaparodi.netlify.app/) · [Code](https://github.com/Nahuewe/portfolio) |
 
 ## 🛠 Tech stack
