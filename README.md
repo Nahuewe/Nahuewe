@@ -32,10 +32,10 @@ Full Stack Developer based in Catamarca, Argentina (UTC-3, overlaps well with US
 
 <!-- Replace with real numbers, e.g. "Used by 300+ staff", "Report time: 2 days → 5 min" -->
 
-- 🏛 Daily-use administrative platforms for municipal staff
-- 📊 Live dashboards for Environment, SIPROM and Cadastre (Catastro), replacing manual spreadsheet reporting
-- 🧾 A full suite for a labor union: members, payroll and attendance
-- 🔄 Automation of repetitive administrative processes and Excel/CSV workflows
+- Daily-use administrative platforms for municipal staff
+- Live dashboards for Environment, SIPROM and Cadastre (Catastro), replacing manual spreadsheet reporting
+- A full suite for a labor union: members, payroll and attendance
+- Automation of repetitive administrative processes and Excel/CSV workflows
 
 ## 🌟 Featured work
 
@@ -43,9 +43,9 @@ Full Stack Developer based in Catamarca, Argentina (UTC-3, overlaps well with US
 
 | System | What it does | Stack |
 | --- | --- | --- |
-| 🏛 **Municipal management platform** | Administrative processes, internal operations and workflows | React · Laravel · MySQL |
-| 📊 **Analytics dashboards** (Environment, SIPROM, Cadastre) | Real-time reporting with advanced filters and charts | React · TypeScript · Laravel |
-| 🪪 **SUTEPA suite** | Member management, payroll and attendance, each with its own front and back | React · Redux · Laravel · MySQL |
+| **Municipal management platform** | Administrative processes, internal operations and workflows | React · Laravel · MySQL |
+| **Analytics dashboards** (Environment, SIPROM, Cadastre) | Real-time reporting with advanced filters and charts | React · TypeScript · Laravel |
+| **SUTEPA suite** | Member management, payroll and attendance, each with its own front and back | React · Redux · Laravel · MySQL |
 
 > These are internal back-office tools, so there are no public demos. Happy to walk through them in an interview.
 
@@ -53,12 +53,12 @@ Full Stack Developer based in Catamarca, Argentina (UTC-3, overlaps well with US
 
 | Project | Description | Stack | Links |
 | --- | --- | --- | --- |
-| 💰 **Mis Finanzas** | Personal finance dashboard. Upload an Excel and get analysis in the browser, no server | Astro · JS | [Demo](https://misdatosfinanza.netlify.app/) · [Code](https://github.com/Nahuewe/finanzas) |
-| 📚 **Manga collection** | Catalog with versioned uploads and automatic change history | React · TS · Supabase | [Demo](https://coleccionmangas.netlify.app/) · [Code](https://github.com/Nahuewe/mangas) |
-| ❤️‍🩹 **Bitácora** | Android app that reads Health Connect data and syncs to Supabase | Kotlin · Compose | [Code](https://github.com/Nahuewe/bitacora-salud) |
-| 🔀 **Cruce de datos** | Compare two Excel/CSV files with fuzzy matching | JS | [Demo](https://crucedatos.netlify.app/) · [Code](https://github.com/Nahuewe/cruce-datos) |
-| 👕 **Lukies Cloth** | Product catalog with search, filters and WhatsApp contact | Astro · Tailwind | [Demo](https://lukiescloth.netlify.app/) · [Code](https://github.com/Nahuewe/lukiesCloth) |
-| 🧑‍💻 **Portfolio** | Bilingual portfolio with dark mode and case studies | Astro · Tailwind · TS | [Demo](https://portfolionahuelsoriaparodi.netlify.app/) · [Code](https://github.com/Nahuewe/portfolio) |
+| **Mis Finanzas** | Personal finance dashboard. Upload an Excel and get analysis in the browser, no server | Astro · JS | [Demo](https://misdatosfinanza.netlify.app/) · [Code](https://github.com/Nahuewe/finanzas) |
+| **Manga collection** | Catalog with versioned uploads and automatic change history | React · TS · Supabase | [Demo](https://coleccionmangas.netlify.app/) · [Code](https://github.com/Nahuewe/mangas) |
+| **Bitácora** | Android app that reads Health Connect data and syncs to Supabase | Kotlin · Compose | [Code](https://github.com/Nahuewe/bitacora-salud) |
+| **Cruce de datos** | Compare two Excel/CSV files with fuzzy matching | JS | [Demo](https://crucedatos.netlify.app/) · [Code](https://github.com/Nahuewe/cruce-datos) |
+| **Lukies Cloth** | Product catalog with search, filters and WhatsApp contact | Astro · Tailwind | [Demo](https://lukiescloth.netlify.app/) · [Code](https://github.com/Nahuewe/lukiesCloth) |
+| **Portfolio** | Bilingual portfolio with dark mode and case studies | Astro · Tailwind · TS | [Demo](https://portfolionahuelsoriaparodi.netlify.app/) · [Code](https://github.com/Nahuewe/portfolio) |
 
 ## 🛠 Tech stack
 
