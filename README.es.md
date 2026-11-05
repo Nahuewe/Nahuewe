@@ -57,7 +57,6 @@ Desarrollador Full Stack de Catamarca, Argentina (UTC-3, con buen solapamiento h
 | 📚 **Colección de mangas** | Catálogo con versiones subidas e historial automático de cambios | React · TS · Supabase | [Demo](https://coleccionmangas.netlify.app/) · [Código](https://github.com/Nahuewe/mangas) |
 | ❤️‍🩹 **Bitácora** | App Android que lee datos de Health Connect y sincroniza con Supabase | Kotlin · Compose | [Código](https://github.com/Nahuewe/bitacora-salud) |
 | 🔀 **Cruce de datos** | Compara dos archivos Excel/CSV con coincidencia aproximada | JS | [Demo](https://crucedatos.netlify.app/) · [Código](https://github.com/Nahuewe/cruce-datos) |
-| 🥪 **Sanguchitos** | Herramienta para armar el pedido de la oficina y enviarlo por WhatsApp | JS | [Demo](https://nahuewe.github.io/sanguchitos/) · [Código](https://github.com/Nahuewe/sanguchitos) |
 | 👕 **Lukies Cloth** | Catálogo con búsqueda, filtros y contacto por WhatsApp | Astro · Tailwind | [Demo](https://lukiescloth.netlify.app/) · [Código](https://github.com/Nahuewe/lukiesCloth) |
 | 🧑‍💻 **Portfolio** | Portfolio bilingüe con modo oscuro y casos de estudio | Astro · Tailwind · TS | [Demo](https://portfolionahuelsoriaparodi.netlify.app/) · [Código](https://github.com/Nahuewe/portfolio) |
 
