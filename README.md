@@ -76,7 +76,7 @@ Looking for: dashboards, internal tools, SaaS and automation work with React, As
 
 ## 📄 Resume
 
-[🇬🇧 English CV](https://github.com/user-attachments/files/28639500/Nahuel_Soria_Parodi_CV-EN_2026.pdf) · [🇦🇷 CV en español](https://github.com/user-attachments/files/28639476/Nahuel_Soria_Parodi_CV-ES_2026.pdf)
+[🇬🇧 English CV](https://github.com/user-attachments/files/34428965/CV_EN_Nahuel_Soria_Parodi_2026.pdf) · [🇦🇷 CV en español](https://github.com/user-attachments/files/34428923/CV_ES_Nahuel_Soria_Parodi_2026.pdf)
 
 ---
 
