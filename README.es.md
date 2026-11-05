@@ -76,7 +76,7 @@ Busco: dashboards, herramientas internas, SaaS y automatización con React, Astr
 
 ## 📄 Currículum
 
-[🇦🇷 CV en español](https://github.com/user-attachments/files/28639476/Nahuel_Soria_Parodi_CV-ES_2026.pdf) · [🇬🇧 CV en inglés](https://github.com/user-attachments/files/28639500/Nahuel_Soria_Parodi_CV-EN_2026.pdf)
+[🇦🇷 CV en español](https://github.com/user-attachments/files/34429030/CV_ES_Nahuel_Soria_Parodi_2026.pdf) · [🇬🇧 CV en inglés](https://github.com/user-attachments/files/34429040/CV_EN_Nahuel_Soria_Parodi_2026.pdf)
 
 ---
 
