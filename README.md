@@ -1,183 +1,92 @@
-# <div align="center">👋 Hi, I'm Nahuel Soria Parodi</div>
-
 <div align="center">
 
-### Full Stack Developer | React • Astro • Laravel • TypeScript
+**🇬🇧 English** · [🇦🇷 Español](README.es.md)
 
-Building scalable web platforms, administrative systems and digital products used by thousands of people every day.
+# 👋 Hi, I'm Nahuel Soria Parodi
 
-<br/>
+### Full Stack Developer · React · Astro · Laravel · TypeScript
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nahuelsoriap@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/nahuelsoriaparodi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/5493834523702)
+I build internal systems, dashboards and web platforms for public administration, used daily by real teams.
+
+![Available for work](https://img.shields.io/badge/Available%20for%20work-Remote%20%26%20Freelance-2ea44f?style=for-the-badge)
+![Timezone](https://img.shields.io/badge/Timezone-UTC--3%20(Argentina)-0A66C2?style=for-the-badge)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF3E00?style=for-the-badge&logo=astro&logoColor=white)](https://portfolionahuelsoriaparodi.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahuelsoriaparodi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahuelsoriap@gmail.com)
+[![CV (EN)](https://img.shields.io/badge/CV-English-black?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/user-attachments/files/28639500/Nahuel_Soria_Parodi_CV-EN_2026.pdf)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 About me
 
-I'm a Full Stack Developer from Argentina focused on creating modern web applications, management platforms and scalable systems.
+Full Stack Developer based in Catamarca, Argentina (UTC-3, overlaps well with US and European working hours). I work across the whole stack: interface, API, database and deployment.
 
-My goal is simple:
+> I build software that removes manual work, saves time and shows people the data they need.
 
-> Build software that improves processes, saves time and delivers measurable value.
-
-I enjoy working across the entire stack, from designing intuitive interfaces to developing robust backend architectures and deployment pipelines.
-
----
-
-## 💼 Professional Experience
-
-### 🏛 Municipality of San Fernando del Valle de Catamarca
-
-Currently developing and maintaining digital solutions for public administration, including:
-
-* Administrative management systems
-* Internal operational platforms
-* Citizen-facing services
-* Real-time dashboards
-* Analytics and reporting tools
-* Workflow automation solutions
-
----
+**Currently:** developing and maintaining digital systems for the Municipality of San Fernando del Valle de Catamarca.
 
 ## 📈 Impact
 
-* 🚀 Platforms used daily by thousands of users
-* ⚡ Optimized applications with significant performance improvements
-* 📊 Development of real-time analytics dashboards
-* 🏗 Design and implementation of scalable architectures
-* 🔄 Automation of repetitive administrative processes
+<!-- Replace with real numbers, e.g. "Used by 300+ staff", "Report time: 2 days → 5 min" -->
 
----
+- 🏛 Daily-use administrative platforms for municipal staff
+- 📊 Live dashboards for Environment, SIPROM and Cadastre (Catastro), replacing manual spreadsheet reporting
+- 🧾 A full suite for a labor union: members, payroll and attendance
+- 🔄 Automation of repetitive administrative processes and Excel/CSV workflows
 
-## 🛠 Core Technologies
+## 🌟 Featured work
 
-### Frontend
+### Production systems (private, behind login)
+
+| System | What it does | Stack |
+| --- | --- | --- |
+| 🏛 **Municipal management platform** | Administrative processes, internal operations and workflows | React · Laravel · MySQL |
+| 📊 **Analytics dashboards** (Environment, SIPROM, Cadastre) | Real-time reporting with advanced filters and charts | React · TypeScript · Laravel |
+| 🪪 **SUTEPA suite** | Member management, payroll and attendance, each with its own front and back | React · Redux · Laravel · MySQL |
+
+> These are internal back-office tools, so there are no public demos. Happy to walk through them in an interview.
+
+### Public projects
+
+| Project | Description | Stack | Links |
+| --- | --- | --- | --- |
+| 💰 **Mis Finanzas** | Personal finance dashboard. Upload an Excel and get analysis in the browser, no server | Astro · JS | [Demo](https://misdatosfinanza.netlify.app/) · [Code](https://github.com/Nahuewe/finanzas) |
+| 📚 **Manga collection** | Catalog with versioned uploads and automatic change history | React · TS · Supabase | [Demo](https://coleccionmangas.netlify.app/) · [Code](https://github.com/Nahuewe/mangas) |
+| ❤️‍🩹 **Bitácora** | Android app that reads Health Connect data and syncs to Supabase | Kotlin · Compose | [Code](https://github.com/Nahuewe/bitacora-salud) |
+| 🔀 **Cruce de datos** | Compare two Excel/CSV files with fuzzy matching | JS | [Demo](https://crucedatos.netlify.app/) · [Code](https://github.com/Nahuewe/cruce-datos) |
+| 🥪 **Sanguchitos** | Office lunch order tool that sends the order via WhatsApp | JS | [Demo](https://nahuewe.github.io/sanguchitos/) · [Code](https://github.com/Nahuewe/sanguchitos) |
+| 👕 **Lukies Cloth** | Product catalog with search, filters and WhatsApp contact | Astro · Tailwind | [Demo](https://lukiescloth.netlify.app/) · [Code](https://github.com/Nahuewe/lukiesCloth) |
+| 🧑‍💻 **Portfolio** | Bilingual portfolio with dark mode and case studies | Astro · Tailwind · TS | [Demo](https://portfolionahuelsoriaparodi.netlify.app/) · [Code](https://github.com/Nahuewe/portfolio) |
+
+## 🛠 Tech stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,astro,typescript,javascript,svelte,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,typescript,javascript,tailwind,vite,redux,nodejs,express,laravel,php,mysql,supabase,kotlin" alt="Main technologies" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,figma,postman,vscode" alt="Tools" />
 </p>
 
-### Backend
+## 🎯 Open to
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,mysql" />
-</p>
+Remote roles · Freelance projects · Technical consulting · Open source collaboration
 
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,github,gitlab,git,linux" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,jest,supabase" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-### 🏛 Municipal Management Platform
-
-Comprehensive system for administrative processes, internal operations and workflow management.
-
-### 📊 Revenue Analytics Dashboard
-
-Real-time reporting platform featuring advanced filtering, visualizations and operational metrics.
-
-### 🌐 Institutional Web Portal
-
-High-performance Astro-based website focused on SEO, accessibility and user experience.
-
-### 📚 Manga Collection Manager
-
-Personal project for cataloging, tracking and analyzing manga collections with advanced statistics and reporting.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahuewe&theme=tokyonight&hide_border=true"/>
-<img style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuewe&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-* Building modern React & Astro applications
-* Scalable Laravel architectures
-* Performance optimization
-* SaaS development
-* Automation systems
-* Advanced dashboards and analytics
-
----
-
-## 🌎 Open To
-
-* Remote Opportunities
-* Freelance Projects
-* SaaS Partnerships
-* Technical Consulting
-* Open Source Collaboration
-
----
-
-## 🌐 Portfolio
-
-Explore selected projects, case studies and technical implementations:
-
-🔗 **Portfolio Website**
-https://portfolionahuelsoriaparodi.netlify.app/
-
----
+Looking for: dashboards, internal tools, SaaS and automation work with React, Astro and Laravel.
 
 ## 📄 Resume
 
-* 🇦🇷 **Spanish CV**
-  https://github.com/user-attachments/files/28639476/Nahuel_Soria_Parodi_CV-ES_2026.pdf
-
-* 🌍 **English CV**
-  https://github.com/user-attachments/files/28639500/Nahuel_Soria_Parodi_CV-EN_2026.pdf
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="mailto:nahuelsoriap@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/nahuelsoriaparodi">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/nahueh">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
+[🇬🇧 English CV](https://github.com/user-attachments/files/28639500/Nahuel_Soria_Parodi_CV-EN_2026.pdf) · [🇦🇷 CV en español](https://github.com/user-attachments/files/28639476/Nahuel_Soria_Parodi_CV-ES_2026.pdf)
 
 ---
 
 <div align="center">
 
-<img src="https://github.com/Nahuewe/Viborita/blob/main/viborita.svg" width="320"/>
+<img src="https://raw.githubusercontent.com/Nahuewe/viborita/main/viborita.svg" width="320" alt="Viborita" />
 
-<br/><br/>
+<br/>
 
-*"Building software that solves real-world problems through clean architecture, performance and thoughtful user experiences."*
+[Email](mailto:nahuelsoriap@gmail.com) · [LinkedIn](https://linkedin.com/in/nahuelsoriaparodi) · [Instagram](https://instagram.com/nahueh)
 
 </div>
