@@ -32,10 +32,10 @@ Desarrollador Full Stack de Catamarca, Argentina (UTC-3, con buen solapamiento h
 
 <!-- Reemplazar con números reales, ej: "Usado por 300+ empleados", "Tiempo de reporte: 2 días → 5 min" -->
 
-- 🏛 Plataformas administrativas de uso diario para personal municipal
-- 📊 Dashboards en vivo de Ambiente, SIPROM y Catastro, que reemplazan reportes manuales en planillas
-- 🧾 Suite completa para un gremio: afiliados, liquidación de sueldos y asistencia
-- 🔄 Automatización de procesos administrativos repetitivos y flujos con Excel/CSV
+- Plataformas administrativas de uso diario para personal municipal
+- Dashboards en vivo de Ambiente, SIPROM y Catastro, que reemplazan reportes manuales en planillas
+- Suite completa para un gremio: afiliados, liquidación de sueldos y asistencia
+- Automatización de procesos administrativos repetitivos y flujos con Excel/CSV
 
 ## 🌟 Trabajos destacados
 
@@ -43,9 +43,9 @@ Desarrollador Full Stack de Catamarca, Argentina (UTC-3, con buen solapamiento h
 
 | Sistema | Qué hace | Stack |
 | --- | --- | --- |
-| 🏛 **Plataforma de gestión municipal** | Procesos administrativos, operación interna y flujos de trabajo | React · Laravel · MySQL |
-| 📊 **Dashboards analíticos** (Ambiente, SIPROM, Catastro) | Reportes en tiempo real con filtros avanzados y gráficos | React · TypeScript · Laravel |
-| 🪪 **Suite SUTEPA** | Gestión de afiliados, liquidación y asistencia, cada uno con su front y back | React · Redux · Laravel · MySQL |
+| **Plataforma de gestión municipal** | Procesos administrativos, operación interna y flujos de trabajo | React · Laravel · MySQL |
+| **Dashboards analíticos** (Ambiente, SIPROM, Catastro) | Reportes en tiempo real con filtros avanzados y gráficos | React · TypeScript · Laravel |
+| **Suite SUTEPA** | Gestión de afiliados, liquidación y asistencia, cada uno con su front y back | React · Redux · Laravel · MySQL |
 
 > Son herramientas internas de backoffice, por eso no tienen demo pública. Con gusto las muestro en una entrevista.
 
@@ -53,12 +53,12 @@ Desarrollador Full Stack de Catamarca, Argentina (UTC-3, con buen solapamiento h
 
 | Proyecto | Descripción | Stack | Links |
 | --- | --- | --- | --- |
-| 💰 **Mis Finanzas** | Dashboard de finanzas personales. Subís un Excel y se analiza en el navegador, sin servidor | Astro · JS | [Demo](https://misdatosfinanza.netlify.app/) · [Código](https://github.com/Nahuewe/finanzas) |
-| 📚 **Colección de mangas** | Catálogo con versiones subidas e historial automático de cambios | React · TS · Supabase | [Demo](https://coleccionmangas.netlify.app/) · [Código](https://github.com/Nahuewe/mangas) |
-| ❤️‍🩹 **Bitácora** | App Android que lee datos de Health Connect y sincroniza con Supabase | Kotlin · Compose | [Código](https://github.com/Nahuewe/bitacora-salud) |
-| 🔀 **Cruce de datos** | Compara dos archivos Excel/CSV con coincidencia aproximada | JS | [Demo](https://crucedatos.netlify.app/) · [Código](https://github.com/Nahuewe/cruce-datos) |
-| 👕 **Lukies Cloth** | Catálogo con búsqueda, filtros y contacto por WhatsApp | Astro · Tailwind | [Demo](https://lukiescloth.netlify.app/) · [Código](https://github.com/Nahuewe/lukiesCloth) |
-| 🧑‍💻 **Portfolio** | Portfolio bilingüe con modo oscuro y casos de estudio | Astro · Tailwind · TS | [Demo](https://portfolionahuelsoriaparodi.netlify.app/) · [Código](https://github.com/Nahuewe/portfolio) |
+| **Mis Finanzas** | Dashboard de finanzas personales. Subís un Excel y se analiza en el navegador, sin servidor | Astro · JS | [Demo](https://misdatosfinanza.netlify.app/) · [Código](https://github.com/Nahuewe/finanzas) |
+| **Colección de mangas** | Catálogo con versiones subidas e historial automático de cambios | React · TS · Supabase | [Demo](https://coleccionmangas.netlify.app/) · [Código](https://github.com/Nahuewe/mangas) |
+| **Bitácora** | App Android que lee datos de Health Connect y sincroniza con Supabase | Kotlin · Compose | [Código](https://github.com/Nahuewe/bitacora-salud) |
+| **Cruce de datos** | Compara dos archivos Excel/CSV con coincidencia aproximada | JS | [Demo](https://crucedatos.netlify.app/) · [Código](https://github.com/Nahuewe/cruce-datos) |
+| **Lukies Cloth** | Catálogo con búsqueda, filtros y contacto por WhatsApp | Astro · Tailwind | [Demo](https://lukiescloth.netlify.app/) · [Código](https://github.com/Nahuewe/lukiesCloth) |
+| **Portfolio** | Portfolio bilingüe con modo oscuro y casos de estudio | Astro · Tailwind · TS | [Demo](https://portfolionahuelsoriaparodi.netlify.app/) · [Código](https://github.com/Nahuewe/portfolio) |
 
 ## 🛠 Tecnologías
 
